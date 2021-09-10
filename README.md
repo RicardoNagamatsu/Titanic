@@ -3,7 +3,7 @@
 Projeto feito com as principais bibliotecas conhecidas como Pandas, Matplotlib, Sklearn,
 e algumas outras que eu não conhecia até o momento que são: Missingno, Sweetviz, Pycaret. Utilizado undersampling e oversampling para balancear os dados.
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RicardoNagamatsu/Detec-o_C-ncer---Redes_Neurais/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RicardoNagamatsu/Titanic/blob/add-license-1/LICENSE) 
 
 # Sobre o projeto
 
